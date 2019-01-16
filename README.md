@@ -1,5 +1,7 @@
 # Pastas Research
-Repository to hold public articles or presentations on Pastas.
+one of the main purposes of Pastas is to drive the development of new methods and applications of transfer function noise modelling in the field of groundwater sciences. This repository provides a location to collect reports, journal articles and presentations in which the Pastas software was used. Articles can be accompanied by Jupyter Notebooks uploaded to this repository. 
+
+If you want to contribute your work to this repository list please sent an email to r.a.collenteur[at]uni-graz.at
 
 Presentations / Posters
 -------

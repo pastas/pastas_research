@@ -1,4 +1,4 @@
-# pastas_research
+# Pastas Research
 Repository to hold public articles or presentations on Pastas.
 
 Presentations / Posters

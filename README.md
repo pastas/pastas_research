@@ -10,6 +10,11 @@ Bakker, M., Collenteur, R., Calje, F. Schaars (2018, April) Untangling groundwat
 Articles [International]
 ------------------------
 
+Msc/Bsc Theses
+--------------
+Klop, S. (2019) [From observation well to model area: Estimating groundwater levels spatially using time series analysis](http://resolver.tudelft.nl/uuid:362f6b0f-b3aa-41c6-b47e-b625c963d8a0). TU Delft, Delft, The Netherlands.
+
+
 Articles [In Dutch]
 -------------------
 Collenteur, R.A. (2018) Over autocorrelatie van tijdreeksmoddellen met niet-equidistante tijdstappen. Artesia, Schoonhoven, Nederland. <http://www.artesia-water.nl>
@@ -18,5 +23,4 @@ Caljé, R. (2018) [Trendanalyse beregeningsbeleid 2018](http://onderzoeksbank.br
 
 Beek, W., Caljé, R., Collenteur, R.A. (2018) [Meetstrategie rond stillegging winning Weerselo: Een theoretische verkenning](http://edepot.wur.nl/464397), Artesia, Schoonhoven, Nederland.
 
-Msc/Bsc Theses
---------------
+

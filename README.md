@@ -12,7 +12,11 @@ Articles [International]
 
 Articles [In Dutch]
 -------------------
-Collenteur, R.A. (2018, November) Over autocorrelatie van tijdreeksmoddellen met niet-equidistante tijdstappen. Artesia, Schoonhoven, Nederland. <http://www.artesia-water.nl>
+Collenteur, R.A. (2018) Over autocorrelatie van tijdreeksmoddellen met niet-equidistante tijdstappen. Artesia, Schoonhoven, Nederland. <http://www.artesia-water.nl>
+
+Caljé, R. (2018) [Trendanalyse beregeningsbeleid 2018](http://onderzoeksbank.brabant.nl/onderzoeksbank/onderzoek/evaluatie-beregeningsbeleid-trendanalyse-beregeningsbeleid-2018), Artesia, Schoonhoven, Nederland.
+
+Beek, W., Caljé, R., Collenteur, R.A. (2018) [Meetstrategie rond stillegging winning Weerselo: Een theoretische verkenning](http://edepot.wur.nl/464397), Artesia, Schoonhoven, Nederland.
 
 Msc/Bsc Theses
 --------------

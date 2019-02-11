@@ -23,4 +23,4 @@ Caljé, R. (2018) [Trendanalyse beregeningsbeleid 2018](http://onderzoeksbank.br
 
 Beekman, W., Caljé, R., Collenteur, R.A. (2018) [Meetstrategie rond stillegging winning Weerselo: Een theoretische verkenning](http://edepot.wur.nl/464397), Artesia, Schoonhoven, Nederland.
 
-
+Beekman, W., Caljé, R. (2018)[Doorwerking droogte van 2018 in Overijssel: Voorspelling per eind september](http://edepot.wur.nl/464068), Artesia, Schoonhoven, Nederland.

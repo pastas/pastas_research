@@ -17,12 +17,12 @@ Klop, S. (2019) [From observation well to model area: Estimating groundwater lev
 
 Articles [In Dutch]
 -------------------
-Collenteur, R.A. (2018) Over autocorrelatie van tijdreeksmoddellen met niet-equidistante tijdstappen. Artesia, Schoonhoven, Nederland. <http://www.artesia-water.nl>
+Collenteur, R.A. (2018) [Over autocorrelatie van tijdreeksmoddellen met niet-equidistante tijdstappen](http://www.artesia-water.nl/wp-content/uploads/Autocorrelatie_niet_gelijke_tijdstappen.pdf), Artesia, Schoonhoven, Nederland.
 
 Caljé, R. (2018) [Trendanalyse beregeningsbeleid 2018](http://onderzoeksbank.brabant.nl/onderzoeksbank/onderzoek/evaluatie-beregeningsbeleid-trendanalyse-beregeningsbeleid-2018), Artesia, Schoonhoven, Nederland.
 
 Beekman, W., Caljé, R., Collenteur, R.A. (2018) [Meetstrategie rond stillegging winning Weerselo: Een theoretische verkenning](http://edepot.wur.nl/464397), Artesia, Schoonhoven, Nederland.
 
-Beekman, W., Caljé, R. (2018)[Doorwerking droogte van 2018 in Overijssel: Voorspelling per eind september](http://edepot.wur.nl/464068), Artesia, Schoonhoven, Nederland.
+Beekman, W., Caljé, R. (2018) [Doorwerking droogte van 2018 in Overijssel: Voorspelling per eind september](http://edepot.wur.nl/464068), Artesia, Schoonhoven, Nederland.
 
 Popma, J.,Barth, R., Oudega, M., Schaars , F., Calje, R., Fordeyn J. (2018) [Minimaliseren van het risico op zoute kwel PHZD](http://www.wiertsema.nl/resources/site1/General/Artikel_Land_en_Water.pdf), Land en Water, Nr. 11.

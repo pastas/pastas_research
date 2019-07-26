@@ -3,6 +3,10 @@ one of the main purposes of Pastas is to drive the development of new methods an
 
 If you want to contribute your work to this repository list please sent an email to raoul.collenteur[at]uni-graz.at
 
+Articles [International]
+------------------------
+Collenteur, R.A., Bakker, M., Caljé, R., Klop, S.A., Schaars, F. (2019) [Pastas: open source software for the analysis of groundwater time series](https://ngwa.onlinelibrary.wiley.com/doi/abs/10.1111/gwat.12925). Groundwater. doi: 10.1111/gwat.12925.
+
 Presentations / Posters
 -----------------------
 Collenteur, R.A., Birk, S. (2019, June) Untangling effects of surface waters and recharge on groundwater head fluctuations with transfer-function-noise models: exploring possibilities and limitations using MODFLOW6. Oral presentation at Modflow & More 2019.
@@ -13,15 +17,9 @@ Collenteur, R.A., Bakker, M., Caljé (2019, April) [Hydrogeological time series 
 
 Bakker, M., Collenteur, R.A., Caljé, R., Schaars, F. (2018, April) [Untangling groundwater head series using time series analysis and Pastas](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-7194.pdf). Poster at EGU General Assembly 2018. 
 
-Articles [International]
-------------------------
-Collenteur, R.A., Bakker, M., Caljé, R., Klop, S.A., Schaars, F. (2019) [Pastas: open source software for the analysis of groundwater time series](https://ngwa.onlinelibrary.wiley.com/doi/abs/10.1111/gwat.12925). Groundwater. doi: 10.1111/gwat.12925.
-
-
 Msc/Bsc Theses
 --------------
 Klop, S. (2019) [From observation well to model area: Estimating groundwater levels spatially using time series analysis](http://resolver.tudelft.nl/uuid:362f6b0f-b3aa-41c6-b47e-b625c963d8a0). TU Delft, Delft, The Netherlands.
-
 
 Articles [In Dutch]
 -------------------

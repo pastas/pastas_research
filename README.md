@@ -4,11 +4,19 @@ one of the main purposes of Pastas is to drive the development of new methods an
 If you want to contribute your work to this repository list please sent an email to raoul.collenteur[at]uni-graz.at
 
 Presentations / Posters
--------
-Bakker, M., Collenteur, R., Calje, F. Schaars (2018, April) Untangling groundwater head series using time series analysis and Pastas. In EGU General Assembly 2018. <https://meetingorganizer.copernicus.org/EGU2018/EGU2018-7194.pdf>
+-----------------------
+Collenteur, R.A., Birk, S. (2019, June) Untangling effects of surface waters and recharge on groundwater head fluctuations with transfer-function-noise models: exploring possibilities and limitations using MODFLOW6. Oral presentation at Modflow & More 2019.
+
+Collenteur, R.A., Bakker, M., Caljé, R., Klop, S.A. (2019, June) Untangling your spaghetti of time series: analysis of hydrogeological time series using Pastas. Poster at Modflow & More 2019.
+
+Collenteur, R.A., Bakker, M., Caljé (2019, April) [Hydrogeological time series analysis using scripts: objective and reproducible criteria for model construction](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-15091.pdf). PICO presentation EGU General Assembly 2019.
+
+Bakker, M., Collenteur, R.A., Caljé, R., Schaars, F. (2018, April) [Untangling groundwater head series using time series analysis and Pastas](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-7194.pdf). Poster at EGU General Assembly 2018. 
 
 Articles [International]
 ------------------------
+Collenteur, R.A., Bakker, M., Caljé, R., Klop, S.A., Schaars, F. (2019) [Pastas: open source software for the analysis of groundwater time series](https://ngwa.onlinelibrary.wiley.com/doi/abs/10.1111/gwat.12925). Groundwater. doi: 10.1111/gwat.12925.
+
 
 Msc/Bsc Theses
 --------------

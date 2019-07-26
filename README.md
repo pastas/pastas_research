@@ -7,6 +7,8 @@ Articles [International]
 ------------------------
 Collenteur, R.A., Bakker, M., Caljé, R., Klop, S.A., Schaars, F. (2019) [Pastas: open source software for the analysis of groundwater time series](https://ngwa.onlinelibrary.wiley.com/doi/abs/10.1111/gwat.12925). Groundwater. doi: 10.1111/gwat.12925.
 
+Bakker, M., Schaars, F. (2019) [Solving groundwater flow problems with time series analysis: you may not even need another model](https://ngwa.onlinelibrary.wiley.com/doi/abs/10.1111/gwat.12927). Groundwater. doi: 10.1111/gwat.12927.
+
 Presentations / Posters
 -----------------------
 Collenteur, R.A., Birk, S. (2019, June) Untangling effects of surface waters and recharge on groundwater head fluctuations with transfer-function-noise models: exploring possibilities and limitations using MODFLOW6. Oral presentation at Modflow & More 2019.

@@ -23,7 +23,7 @@ Msc/Bsc Theses
 --------------
 Schütt, K. (2019) [Application of real-time groundwater level forecasting in Northern Limburg](https://github.com/nens/pastas-realtime/blob/master/Documentation/Pastas_realtime_toepassing_Noord_Limburg.pdf). Nelen & Schuurmans, Utrecht, The Netherlands.
 
-Rorink, T. (2019) Understanding unsaturated soil water dynamics of the Twente region using actual evapotranspiration and soil moisture data. Waterschap Vechtstromen, The Netherlands.
+Rorink, T. (2019) [Understanding unsaturated soil water dynamics of the Twente region using actual evapotranspiration and soil moisture data](https://essay.utwente.nl/80223/1/Rorink-Thorvald-Hoofdverslag.pdf). Waterschap Vechtstromen, The Netherlands.
 
 Klop, S. (2019) [From observation well to model area: Estimating groundwater levels spatially using time series analysis](http://resolver.tudelft.nl/uuid:362f6b0f-b3aa-41c6-b47e-b625c963d8a0). TU Delft, Delft, The Netherlands.
 

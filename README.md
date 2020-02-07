@@ -19,8 +19,10 @@ Collenteur, R.A., Bakker, M., Caljé (2019, April) [Hydrogeological time series 
 
 Bakker, M., Collenteur, R.A., Caljé, R., Schaars, F. (2018, April) [Untangling groundwater head series using time series analysis and Pastas](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-7194.pdf). Poster at EGU General Assembly 2018. 
 
-Msc/Bsc Theses
+PhD / Msc / Bsc Theses
 --------------
+Pezij M. (2020)[Application of soil moisture information for operational water management](https://ris.utwente.nl/ws/portalfiles/portal/167919982/Pezij_dissertation_final.pdf). Enschede: University of Twente. https://doi.org/10.3990/1.9789036549486
+
 Schütt, K. (2019) [Application of real-time groundwater level forecasting in Northern Limburg](https://github.com/nens/pastas-realtime/blob/master/Documentation/Pastas_realtime_toepassing_Noord_Limburg.pdf). Nelen & Schuurmans, Utrecht, The Netherlands.
 
 Rorink, T. (2019) [Understanding unsaturated soil water dynamics of the Twente region using actual evapotranspiration and soil moisture data](https://essay.utwente.nl/80223/1/Rorink-Thorvald-Hoofdverslag.pdf). Waterschap Vechtstromen, The Netherlands.

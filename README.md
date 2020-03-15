@@ -29,8 +29,10 @@ Rorink, T. (2019) [Understanding unsaturated soil water dynamics of the Twente r
 
 Klop, S. (2019) [From observation well to model area: Estimating groundwater levels spatially using time series analysis](http://resolver.tudelft.nl/uuid:362f6b0f-b3aa-41c6-b47e-b625c963d8a0). TU Delft, Delft, The Netherlands.
 
-Articles [In Dutch]
+Articles/Reports [In Dutch]
 -------------------
+Graafstra, P., Oosterhoff, R. (2019) [Analyse risico’s grondwateronderlast in de gemeente Lingewaard](https://www.lingewaard.nl/mgd/files/rapportage_lokale_stresstest.pdf)
+
 Collenteur, R.A. (2018) [Over autocorrelatie van tijdreeksmoddellen met niet-equidistante tijdstappen](http://www.artesia-water.nl/wp-content/uploads/Autocorrelatie_niet_gelijke_tijdstappen.pdf), Artesia, Schoonhoven, Nederland.
 
 Caljé, R. (2018) [Trendanalyse beregeningsbeleid 2018](http://onderzoeksbank.brabant.nl/onderzoeksbank/onderzoek/evaluatie-beregeningsbeleid-trendanalyse-beregeningsbeleid-2018), Artesia, Schoonhoven, Nederland.

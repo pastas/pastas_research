@@ -21,6 +21,8 @@ Bakker, M., Collenteur, R.A., Caljé, R., Schaars, F. (2018, April) [Untangling 
 
 PhD / Msc / Bsc Theses
 --------------
+Peijnenburg, J.J.J. (2019) [The effect of measures for nature restoration on groundwater levels in the nature reserve Strabrechtse Heide](https://dspace.library.uu.nl/handle/1874/393820). Utrecht University, Utrecht, The Netherlands.
+
 Pezij M. (2020)[Application of soil moisture information for operational water management](https://ris.utwente.nl/ws/portalfiles/portal/167919982/Pezij_dissertation_final.pdf). Enschede: University of Twente. https://doi.org/10.3990/1.9789036549486
 
 Schütt, K. (2019) [Application of real-time groundwater level forecasting in Northern Limburg](https://github.com/nens/pastas-realtime/blob/master/Documentation/Pastas_realtime_toepassing_Noord_Limburg.pdf). Nelen & Schuurmans, Utrecht, The Netherlands.

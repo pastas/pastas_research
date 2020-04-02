@@ -17,7 +17,7 @@ Collenteur, R.A., Birk, S. (2019) Untangling effects of surface waters and recha
 
 Collenteur, R.A., Bakker, M., Caljé, R., Klop, S.A. (2019) Untangling your spaghetti of time series: analysis of hydrogeological time series using Pastas. Poster at Modflow & More 2019.
 
-Collenteur, R.A., Bakker, M., Caljé (2019) [Hydrogeological time series analysis using scripts: objective and reproducible criteria for model construction](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-15091.pdf). PICO presentation EGU General Assembly 2019.
+Collenteur, R.A., Bakker, M., Caljé R. (2019) [Hydrogeological time series analysis using scripts: objective and reproducible criteria for model construction](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-15091.pdf). PICO presentation EGU General Assembly 2019.
 
 Bakker, M., Collenteur, R.A., Caljé, R., Schaars, F. (2018) [Untangling groundwater head series using time series analysis and Pastas](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-7194.pdf). Poster at EGU General Assembly 2018. 
 

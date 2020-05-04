@@ -35,6 +35,8 @@ Klop, S. (2019) [From observation well to model area: Estimating groundwater lev
 
 Articles/Reports [In Dutch]
 -------------------
+Baggelaar, P.K. en Van der Meulen, E.C.J. (2020) [Naar betere tijdreeksmodellering met Pastas](https://edepot.wur.nl/521117). Rapport van AMO (Hengelo) en PB Icastat (Amstelveen), 70 blz., 24 fig., 16 tab., 11 ref.
+
 Graafstra, P., Oosterhoff, R. (2019) [Analyse risico’s grondwateronderlast in de gemeente Lingewaard](https://www.lingewaard.nl/mgd/files/rapportage_lokale_stresstest.pdf)
 
 Collenteur, R.A. (2018) [Over autocorrelatie van tijdreeksmoddellen met niet-equidistante tijdstappen](http://www.artesia-water.nl/wp-content/uploads/Autocorrelatie_niet_gelijke_tijdstappen.pdf), Artesia, Schoonhoven, Nederland.

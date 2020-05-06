@@ -23,6 +23,8 @@ Bakker, M., Collenteur, R.A., Caljé, R., Schaars, F. (2018) [Untangling groundw
 
 PhD / Msc / Bsc Theses
 --------------
+Demetriades, V. (2020)[Relating groundwater heads to stream discharge by using machine learning techniques: A case study in subcatchment Chaamse Beken](http://resolver.tudelft.nl/uuid:d0847ad1-2ba5-49ca-80a9-7b5ca07bf0cd).  TU Delft, Delft, The Netherlands.
+
 Pezij M. (2020)[Application of soil moisture information for operational water management](https://ris.utwente.nl/ws/portalfiles/portal/167919982/Pezij_dissertation_final.pdf). Enschede: University of Twente. https://doi.org/10.3990/1.9789036549486
 
 Peijnenburg, J.J.J. (2019) [The effect of measures for nature restoration on groundwater levels in the nature reserve Strabrechtse Heide](https://dspace.library.uu.nl/handle/1874/393820). Utrecht University, Utrecht, The Netherlands.

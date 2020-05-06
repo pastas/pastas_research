@@ -39,6 +39,8 @@ Baggelaar, P.K. en Van der Meulen, E.C.J. (2020) [Naar betere tijdreeksmodelleri
 
 Graafstra, P., Oosterhoff, R. (2019) [Analyse risico’s grondwateronderlast in de gemeente Lingewaard](https://www.lingewaard.nl/mgd/files/rapportage_lokale_stresstest.pdf)
 
+Collenteur, R.A., Caljé, R. (2018) Proeftuin Regte Heide Fokmast : Evaluatie van aanwezige grondwatermeetpunten met behulp van tijdreeksanalyse](https://library.wur.nl/WebQuery/hydrotheek/2251236)
+
 Collenteur, R.A. (2018) [Over autocorrelatie van tijdreeksmoddellen met niet-equidistante tijdstappen](http://www.artesia-water.nl/wp-content/uploads/Autocorrelatie_niet_gelijke_tijdstappen.pdf), Artesia, Schoonhoven, Nederland.
 
 Caljé, R. (2018) [Trendanalyse beregeningsbeleid 2018](http://onderzoeksbank.brabant.nl/onderzoeksbank/onderzoek/evaluatie-beregeningsbeleid-trendanalyse-beregeningsbeleid-2018), Artesia, Schoonhoven, Nederland.

@@ -1,13 +1,13 @@
 # NHV Stromingen Tijdreeksanalyse
 
-Dit bestand bevat een lijst met artikelen over tijdreeksanalyse van grondwaterstanden die zijn verschenen in het blad Stromingen van de Nederlandse Hydrologische vereniging. Verslagen van tijdreeksmiddagen zijn niet meegnomen. Mist er iets? Mail naar: raoul.collenteur[Apenstaartje]uni-graz.at. 
+Dit bestand bevat een lijst met artikelen over tijdreeksanalyse van grondwaterstanden die zijn verschenen in het blad Stromingen van de Nederlandse Hydrologische vereniging. Verslagen van tijdreeksmiddagen zijn niet meegenomen en zijn [hier te vinden](https://www.nhv.nu/inhoudelijke-kennis-en-themas/werkgroep-tijdreeksanalyse). Mist er iets? Maak een Pull Request of een Issue aan op deze Github repo. 
 
 - Berendrecht W. en van Geer, F., (2015) [Meervoudige tijdreeksmodellen en de samenhang in stijghoogtereeksen](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/3546_3542.pdf)
 - Ottow, B.P., Schuurmans, H., en van Steijn, T. (2015) [Meerwaarde van ruimtelijke neerslagdata voor het modelleren van stijghoogtefluctuaties](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/3552_3548.pdf)
 - van Loon, A., en Zaadnoordijk, W.J. ( 2015) [Vlakdekkende tijdreeksanalyse: Een data-gedreven methode voor het projecteren van grondwaterstandreeksen](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/3558_3554.pdf)
 - Olsthoorn, T. (2015) [De dynamica van de verlaging van Terwisscha of in vergelijkbare situaties](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2014-1_De_dynamica_van_de_verlaging.pdf)
 - von Asmuth, J.,van der Schaaf, S., Grootjans, A., en Maas, K. (2012) [Vennen en veentjes: (niet-)ideale systemen voor niet-lineaire tijdreeksmodellen](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2012_2%20Veentjes%20(niet)ideaal%20voor%20niet-lineaire%20tijdreeksmodellen.pdf)
--Knotters, M. (2012) [Validatie van tijdreeksmodellen voor de grondwaterstand](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2012_2%20Validatie%20van%20tijdreeksmodellen.pdf)
+- Knotters, M. (2012) [Validatie van tijdreeksmodellen voor de grondwaterstand](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2012_2%20Validatie%20van%20tijdreeksmodellen.pdf)
 - van Geer, F. (2012) [Tijdreeksanalyse: Introductie en aandachtspunten](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2012_2%20Tijdreeksanalyse%20Introductie%20en%20aandachtspunten.pdf)
 - van der Hauw, K. (2012) [Evaluatie Waterproject Ruinen - een praktijktoepassing van interventieanalyse met Menyanthes](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2012_2%20Waterproject%20Ruinen%20-%20interventieanalyse%20met%20Menyanthes.pdf)
 - Maas, K. (2012) [Valkuilen in de tijdreeksanalyse: Het geval Terwisscha](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2012_2%20Valkuilen%20bij%20tijdreeksanalyse%20Terwisscha.pdf)

@@ -15,4 +15,5 @@ Dit bestand bevat een lijst met artikelen over tijdreeksanalyse van grondwaterst
 - Baggelaar, P. (2002) [Hoe doen we tijdreeksanalyse van grondwaterstanden in Nederland?](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2002-1_Symposia.pdf)
 - von Asmuth, J. Maas, K., Bierkens, M.F.P. (2001) [Waarom doen alsof de neerslag eens per maand valt](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2001-4_Waarom%20doen%20alsof%20de%20neerslag%20eens%20per%20maand%20valt.pdf)
 - van de Vliet, R. Tiebosch, T., Grakist, G. (2001) [Meerwaarde door meer waarden of modelleren](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2001-2_Meerwaarde%20door%20meer%20waarden%20of%20modelleren.pdf)
-
+- Bierkens, M.F.P., Knotter, M., en van Geer, F. (1999) [Tijdreeksanalyse nu ook toepasbaar bij onregelmatige meetfrequenties](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/1999-2_Tijdreeksanalyse%20bij%20onregelmatige%20meetfrequenties.pdf)
+- van de Vliet, R., en Boekelman, R., (1999) [Bepaling van de impulsrespons met behulp van tijdreeksanalyse](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/1998-1_Bepaling%20van%20de%20impulsrespons%20met%20behulp%20van%20tijdreeksanalyse.pdf)

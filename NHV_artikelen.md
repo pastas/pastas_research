@@ -1,0 +1,18 @@
+# NHV Stromingen Tijdreeksanalyse
+
+Dit bestand bevat een lijst met artikelen over tijdreeksanalyse van grondwaterstanden die zijn verschenen in het blad Stromingen van de Nederlandse Hydrologische vereniging. Verslagen van tijdreeksmiddagen zijn niet meegnomen. Mist er iets? Mail naar: raoul.collenteur[Apenstaartje]uni-graz.at. 
+
+- Ottow, B.P., Schuurmans, H., en van Steijn, T. (2015) [Meerwaarde van ruimtelijke neerslagdata voor het modelleren van stijghoogtefluctuaties](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/3552_3548.pdf)
+- van Loon, A., en Zaadnoordijk, W.J. ( 2015) [Vlakdekkende tijdreeksanalyse: Een data-gedreven methode voor het projecteren van grondwaterstandreeksen](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/3558_3554.pdf)
+- van Geer, F. {2012) [Tijdreeksanalyse: Introductie en aandachtspunten](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2012_2%20Tijdreeksanalyse%20Introductie%20en%20aandachtspunten.pdf)
+- van der Hauw, K. (2012) [Evaluatie Waterproject Ruinen - een praktijktoepassing van interventieanalyse met Menyanthes](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2012_2%20Waterproject%20Ruinen%20-%20interventieanalyse%20met%20Menyanthes.pdf)
+- Maas, K. (2012) [Valkuilen in de tijdreeksanalyse: Het geval Terwisscha](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2012_2%20Valkuilen%20bij%20tijdreeksanalyse%20Terwisscha.pdf)
+- Maas, K., Veling, E. (2010) [Een snelle benadering van de formule van Hantush](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2010-1_snelle%20benadering%20Hantush.pdf) 
+- Putters, B., Maas, C., Cirkel, D.G., Vaessen, F., Juhàsz, M., en von Asmuth, J.R. (2006) [Voorkómen en voorspellen van nitraatconcentraties in kalksteenwinningen in Zuid-Limburg](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2006-3_nitraatconcentraties%20in%20kalksteenwinningen%20in%20Zuid-Limburg.pdf)
+- van Herwijnen, T. (2003) [Toepassing van tijdreeksanalyse van grondwaterpeilen](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2003-2_Toepassing%20van%20tijdreeksanalyse%20van%20grondwaterpeilen.pdf)
+- Berendrecht, W., Gehrels, H., van Geer, F., en Heemink, A., (2003) [Tijdreeksanalyse kan veel beter door kleiner modelinterval](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2003-1_Tijdreeksanalyse%20kan%20veel%20beter%20door%20kleiner%20modelinterval.pdf)
+- van Herwijnen, T. (2002) [Tijdreeksanalyse van grondwaterpeilen: invloed van het meetinterval](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2002-4_Tijdreeksanalyse%20van%20grondwaterpeilen,%20invloed%20meetinterval.pdf)
+- Baggelaar, P. (2002) [Hoe doen we tijdreeksanalyse van grondwaterstanden in Nederland?](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2002-1_Symposia.pdf)
+- von Asmuth, J. Maas, K., Bierkens, M.F.P. (2001) [Waarom doen alsof de neerslag eens per maand valt](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2001-4_Waarom%20doen%20alsof%20de%20neerslag%20eens%20per%20maand%20valt.pdf)
+- van de Vliet, R. Tiebosch, T., Grakist, G. (2001) [Meerwaarde door meer waarden of modelleren](https://www.nhv.nu/uploads/fileservice/stromingen/attachment/2001-2_Meerwaarde%20door%20meer%20waarden%20of%20modelleren.pdf)
+

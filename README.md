@@ -5,6 +5,9 @@ If you want to contribute your work to this repository list please sent an email
 
 Articles [International]
 ------------------------
+
+Pezij, M., Augustijn, D. C., Hendriks, D. M., & Hulscher, S. J. (2020). [Applying transfer function-noise modelling to characterize soil moisture dynamics: A data-driven approach using remote sensing dat](https://www.sciencedirect.com/science/article/pii/S1364815220300876#fig1). Environmental Modelling & Software, 104756.
+
 Collenteur, R.A., Bakker, M., Caljé, R., Klop, S.A., Schaars, F. (2019) [Pastas: open source software for the analysis of groundwater time series](https://ngwa.onlinelibrary.wiley.com/doi/abs/10.1111/gwat.12925). Groundwater. doi: 10.1111/gwat.12925.
 
 Bakker, M., Schaars, F. (2019) [Solving groundwater flow problems with time series analysis: you may not even need another model](https://ngwa.onlinelibrary.wiley.com/doi/abs/10.1111/gwat.12927). Groundwater. doi: 10.1111/gwat.12927.

@@ -5,7 +5,7 @@ If you want to contribute your work to this repository list please sent an email
 
 Articles [International]
 ------------------------
-Urgilez Vinueza, A., Robles, J., Bakker, M., Guzman, P.; Bogaard, T. (2020) [Characterization and Hydrological Analysis of the Guarumales Deep-Seated Landslide in the Tropical Ecuadorian Andes]()https://www.mdpi.com/2076-3263/10/7/267. Geosciences 2020, 10, 267.
+Urgilez Vinueza, A., Robles, J., Bakker, M., Guzman, P.; Bogaard, T. (2020) [Characterization and Hydrological Analysis of the Guarumales Deep-Seated Landslide in the Tropical Ecuadorian Andes](https://www.mdpi.com/2076-3263/10/7/267). Geosciences 2020, 10, 267.
 
 Pezij, M., Augustijn, D. C., Hendriks, D. M., & Hulscher, S. J. (2020). [Applying transfer function-noise modelling to characterize soil moisture dynamics: A data-driven approach using remote sensing dat](https://www.sciencedirect.com/science/article/pii/S1364815220300876#fig1). Environmental Modelling & Software, 104756.
 

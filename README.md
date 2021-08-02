@@ -5,7 +5,13 @@ If you want to contribute your work to this repository list please sent an email
 
 Articles [International]
 ------------------------
+Uwihirwe, J., Hrachowitz, M., and Bogaard, T.: Integration of observed and model derived groundwater levels in landslide threshold models in Rwanda, Nat. Hazards Earth Syst. Sci. Discuss. [preprint], https://doi.org/10.5194/nhess-2021-222, in review, 2021.
+
+Collenteur, R.A. (2021), How Good Is Your Model Fit? Weighted Goodness-of-Fit Metrics for Irregular Time Series. Groundwater, 59: 474-478. https://doi.org/10.1111/gwat.13111
+
 Brakkee, E., van Huijgevoort, M., and Bartholomeus, R. P.: [Spatiotemporal development of the 2018–2019 groundwater drought in the Netherlands: a data-based approach](https://hess.copernicus.org/preprints/hess-2021-64/), Hydrol. Earth Syst. Sci. Discuss. [preprint], in review, 2021.
+
+Collenteur, R. A., Bakker, M., Klammler, G., and Birk, S.: Estimation of groundwater recharge from groundwater levels using nonlinear transfer function noise models and comparison to lysimeter data, Hydrol. Earth Syst. Sci., 25, 2931–2949, https://doi.org/10.5194/hess-25-2931-2021, 2021.
 
 Urgilez Vinueza, A., Robles, J., Bakker, M., Guzman, P.; Bogaard, T. (2020) [Characterization and Hydrological Analysis of the Guarumales Deep-Seated Landslide in the Tropical Ecuadorian Andes](https://www.mdpi.com/2076-3263/10/7/267). Geosciences 2020, 10, 267.
 

@@ -35,7 +35,9 @@ Bakker, M., Collenteur, R.A., Caljé, R., Schaars, F. (2018) [Untangling groundw
 
 PhD / Msc / Bsc Theses
 --------------
-Demetriades, V. (2020)[Relating groundwater heads to stream discharge by using machine learning techniques: A case study in subcatchment Chaamse Beken](http://resolver.tudelft.nl/uuid:d0847ad1-2ba5-49ca-80a9-7b5ca07bf0cd).  TU Delft, Delft, The Netherlands.
+Lindblom, A., & Boström, L. (2021). [Evaluating transfer-function models to understand groundwater level impacts-A study of head changes due to drainage and infiltration in an underground infrastructure project](https://hdl.handle.net/20.500.12380/302874), Chalmers University of Technology, Sweden.
+
+Demetriades, V. (2020)[Relating groundwater heads to stream discharge by using machine learning techniques: A case study in subcatchment Chaamse Beken](http://resolver.tudelft.nl/uuid:d0847ad1-2ba5-49ca-80a9-7b5ca07bf0cd). TU Delft, Delft, The Netherlands.
 
 Pezij M. (2020)[Application of soil moisture information for operational water management](https://ris.utwente.nl/ws/portalfiles/portal/167919982/Pezij_dissertation_final.pdf). Enschede: University of Twente. https://doi.org/10.3990/1.9789036549486
 

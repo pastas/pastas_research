@@ -41,7 +41,7 @@ Ali, S. & Patel, K. [Time-series Analysis Using a Transfer Function Noise Model 
 
 van 't Klooster, F. (2021) [Estimating hydraulic aquifer parameters from tide-induced groundwater fluctuations](http://resolver.tudelft.nl/uuid:1a46b29d-7264-4248-bec6-a50156ef3f82), TU Delft, Delft, The Netherlands.
 
-Demetriades, V. (2020)[Relating groundwater heads to stream discharge by using machine learning techniques: A case study in subcatchment Chaamse Beken](http://resolver.tudelft.nl/uuid:d0847ad1-2ba5-49ca-80a9-7b5ca07bf0cd). TU Delft, Delft, The Netherlands.
+Demetriades, V. (2020) [Relating groundwater heads to stream discharge by using machine learning techniques: A case study in subcatchment Chaamse Beken](http://resolver.tudelft.nl/uuid:d0847ad1-2ba5-49ca-80a9-7b5ca07bf0cd). TU Delft, Delft, The Netherlands.
 
 Pezij M. (2020)[Application of soil moisture information for operational water management](https://ris.utwente.nl/ws/portalfiles/portal/167919982/Pezij_dissertation_final.pdf). Enschede: University of Twente. https://doi.org/10.3990/1.9789036549486
 
@@ -55,6 +55,8 @@ Klop, S. (2019) [From observation well to model area: Estimating groundwater lev
 
 Articles/Reports [In Dutch]
 -------------------
+STOWA: Von Asmuth, J., Baggelaar, P., Bakker, M., Brakenhoff, D., Collenteur, R., Ebbens, O., Mondeel, H., Klop, S., Schaars, F. (2021) [Handleiding Tijdreeksanalyse](https://www.stowa.nl/sites/default/files/assets/PUBLICATIES/Publicaties%202021/STOWA%202021%2032%20Handleiding%20tijdreeksanalyse.pdf)
+
 Baggelaar, P.K. en Van der Meulen, E.C.J. (2020) [Naar betere tijdreeksmodellering met Pastas](https://edepot.wur.nl/521117). Rapport van AMO (Hengelo) en PB Icastat (Amstelveen), 70 blz., 24 fig., 16 tab., 11 ref.
 
 Graafstra, P., Oosterhoff, R. (2019) [Analyse risico’s grondwateronderlast in de gemeente Lingewaard](https://www.lingewaard.nl/mgd/files/rapportage_lokale_stresstest.pdf)

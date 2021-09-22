@@ -35,13 +35,15 @@ Bakker, M., Collenteur, R.A., Caljé, R., Schaars, F. (2018) [Untangling groundw
 
 PhD / Msc / Bsc Theses
 --------------
+Krijnen, P. (2021) [Climate adaptation measures for local flooding of the Dutch national highway network](https://repository.tudelft.nl/islandora/object/uuid:541f8bb1-d35e-4291-ba81-c8a834826f28)
+
 Lindblom, A. & Boström, L. (2021). [Evaluating transfer-function models to understand groundwater level impacts-A study of head changes due to drainage and infiltration in an underground infrastructure project](https://hdl.handle.net/20.500.12380/302874), Chalmers University of Technology, Sweden.
 
-Ali, S. & Patel, K. [Time-series Analysis Using a Transfer Function Noise Model Interpolation of Groundwater Levels from File Hajdar, Gotland](https://hdl.handle.net/20.500.12380/302911), Chalmers University of Technology, Sweden.
+Ali, S. & Patel, K. (2021) [Time-series Analysis Using a Transfer Function Noise Model Interpolation of Groundwater Levels from File Hajdar, Gotland](https://hdl.handle.net/20.500.12380/302911), Chalmers University of Technology, Sweden.
 
 van 't Klooster, F. (2021) [Estimating hydraulic aquifer parameters from tide-induced groundwater fluctuations](http://resolver.tudelft.nl/uuid:1a46b29d-7264-4248-bec6-a50156ef3f82), TU Delft, Delft, The Netherlands.
 
-Demetriades, V. (2020)[Relating groundwater heads to stream discharge by using machine learning techniques: A case study in subcatchment Chaamse Beken](http://resolver.tudelft.nl/uuid:d0847ad1-2ba5-49ca-80a9-7b5ca07bf0cd). TU Delft, Delft, The Netherlands.
+Demetriades, V. (2020) [Relating groundwater heads to stream discharge by using machine learning techniques: A case study in subcatchment Chaamse Beken](http://resolver.tudelft.nl/uuid:d0847ad1-2ba5-49ca-80a9-7b5ca07bf0cd). TU Delft, Delft, The Netherlands.
 
 Pezij M. (2020)[Application of soil moisture information for operational water management](https://ris.utwente.nl/ws/portalfiles/portal/167919982/Pezij_dissertation_final.pdf). Enschede: University of Twente. https://doi.org/10.3990/1.9789036549486
 
@@ -55,6 +57,8 @@ Klop, S. (2019) [From observation well to model area: Estimating groundwater lev
 
 Articles/Reports [In Dutch]
 -------------------
+STOWA: Von Asmuth, J., Baggelaar, P., Bakker, M., Brakenhoff, D., Collenteur, R., Ebbens, O., Mondeel, H., Klop, S., Schaars, F. (2021) [Handleiding Tijdreeksanalyse](https://www.stowa.nl/sites/default/files/assets/PUBLICATIES/Publicaties%202021/STOWA%202021%2032%20Handleiding%20tijdreeksanalyse.pdf)
+
 Baggelaar, P.K. en Van der Meulen, E.C.J. (2020) [Naar betere tijdreeksmodellering met Pastas](https://edepot.wur.nl/521117). Rapport van AMO (Hengelo) en PB Icastat (Amstelveen), 70 blz., 24 fig., 16 tab., 11 ref.
 
 Graafstra, P., Oosterhoff, R. (2019) [Analyse risico’s grondwateronderlast in de gemeente Lingewaard](https://www.lingewaard.nl/mgd/files/rapportage_lokale_stresstest.pdf)

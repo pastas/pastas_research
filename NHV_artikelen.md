@@ -2,6 +2,7 @@
 
 Dit bestand bevat een lijst met artikelen over tijdreeksanalyse van grondwaterstanden die zijn verschenen in het blad Stromingen van de Nederlandse Hydrologische vereniging. Verslagen van tijdreeksmiddagen zijn niet meegenomen en zijn [hier te vinden](https://www.nhv.nu/inhoudelijke-kennis-en-themas/werkgroep-tijdreeksanalyse). Mist er iets? Maak een Pull Request of een Issue aan op deze Github repo. 
 
+- Knotters, M., Baggelaar, P. en van der Meulen, E. (2020) [Hoezo significant? Over het effect van een ingreep op de grondwaterstand](https://www.nhv.nu/wp-content/uploads/2021/01/044472_NHV_04_Stromingen-3-2020-ARTIKEL-KNOTTERS)
 - Berendrecht W. en van Geer, F., (2015) [Meervoudige tijdreeksmodellen en de samenhang in stijghoogtereeksen](https://www.nhv.nu/wp-content/uploads/2020/06/2015-3_meervoudige_tijdreeksmodellen_en_de_samenhang_in_stijghoogtereeksen.pdf)
 - Ottow, B.P., Schuurmans, H., en van Steijn, T. (2015) [Meerwaarde van ruimtelijke neerslagdata voor het modelleren van stijghoogtefluctuaties](https://www.nhv.nu/wp-content/uploads/2020/06/2015-4_meerwaarde_van_ruimtelijke_neerslagdata_voor_het_modelleren_van.pdf)
 - van Loon, A., en Zaadnoordijk, W.J. ( 2015) [Vlakdekkende tijdreeksanalyse: Een data-gedreven methode voor het projecteren van grondwaterstandreeksen](https://www.nhv.nu/wp-content/uploads/2020/06/2015-3_vlakdekkende_tijdreeksanalyse_een_data_gedreven_methode_voor_het.pdf)

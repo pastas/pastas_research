@@ -8,6 +8,8 @@ Brakenhoff, D. (2021) Disentangling the Influence of Recharge, Rivers and Pumpin
 
 Jemeljanova, M. (2021) Comparison of AquiMod and transfer function-noise models with impulse response functions for groundwater level modeling in Latvia
 
+Kokimova, A. (2021) Forensic hydrology through time series modeling of groundwater levels: A case study of the Grazer Feld, Austria
+
 Vonk, M.A., Schaars, F., Collenteur, R.A., Bakker, M. (2021) [Nonlinear Unsaturated Zone Behaviour in Groundwater Time Series Analysis](https://media-exp1.licdn.com/dms/document/C4E1FAQFfSmXznQ-IKg/feedshare-document-pdf-analyzed/0/1631057475896?e=1632391200&v=beta&t=cwK5f6su3W5H1buzU2URdqzNIVN5dyWWhlA5lDkkVv4)
 
 ### Presentations

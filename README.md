@@ -15,7 +15,7 @@ Collenteur, R. A., Bakker, M., Klammler, G., and Birk, S. (2021) [Estimation of 
 
 Urgilez Vinueza, A., Robles, J., Bakker, M., Guzman, P.; Bogaard, T. (2020) [Characterization and Hydrological Analysis of the Guarumales Deep-Seated Landslide in the Tropical Ecuadorian Andes](https://www.mdpi.com/2076-3263/10/7/267). Geosciences 2020, 10, 267. doi: 10.3390/geosciences10070267
 
-Pezij, M., Augustijn, D. C., Hendriks, D. M., & Hulscher, S. J. (2020). [Applying transfer function-noise modelling to characterize soil moisture dynamics: A data-driven approach using remote sensing dat](https://www.sciencedirect.com/science/article/pii/S1364815220300876#fig1). Environmental Modelling & Software, 104756. doi: 10.1016/j.envsoft.2020.104756.
+Pezij, M., Augustijn, D. C., Hendriks, D. M., & Hulscher, S. J. (2020) [Applying transfer function-noise modelling to characterize soil moisture dynamics: A data-driven approach using remote sensing dat](https://www.sciencedirect.com/science/article/pii/S1364815220300876#fig1). Environmental Modelling & Software, 104756. doi: 10.1016/j.envsoft.2020.104756.
 
 Collenteur, R.A., Bakker, M., Caljé, R., Klop, S.A., Schaars, F. (2019) [Pastas: open source software for the analysis of groundwater time series](https://ngwa.onlinelibrary.wiley.com/doi/abs/10.1111/gwat.12925). Groundwater. doi: 10.1111/gwat.12925.
 
@@ -33,7 +33,7 @@ van 't Klooster, F. (2021) [Estimating hydraulic aquifer parameters from tide-in
 
 Demetriades, V. (2020) [Relating groundwater heads to stream discharge by using machine learning techniques: A case study in subcatchment Chaamse Beken](http://resolver.tudelft.nl/uuid:d0847ad1-2ba5-49ca-80a9-7b5ca07bf0cd). Delft University of Technology, Delft, The Netherlands.
 
-Pezij M. (2020)[Application of soil moisture information for operational water management](https://ris.utwente.nl/ws/portalfiles/portal/167919982/Pezij_dissertation_final.pdf). Enschede: University of Twente. https://doi.org/10.3990/1.9789036549486
+Pezij M. (2020) [Application of soil moisture information for operational water management](https://ris.utwente.nl/ws/portalfiles/portal/167919982/Pezij_dissertation_final.pdf). Enschede: University of Twente. https://doi.org/10.3990/1.9789036549486
 
 Peijnenburg, J.J.J. (2019) [The effect of measures for nature restoration on groundwater levels in the nature reserve Strabrechtse Heide](https://dspace.library.uu.nl/handle/1874/393820). Utrecht University, Utrecht, The Netherlands.
 
@@ -51,7 +51,7 @@ Baggelaar, P.K. en Van der Meulen, E.C.J. (2020) [Naar betere tijdreeksmodelleri
 
 Graafstra, P., Oosterhoff, R. (2019) [Analyse risico’s grondwateronderlast in de gemeente Lingewaard](https://www.lingewaard.nl/mgd/files/rapportage_lokale_stresstest.pdf)
 
-Collenteur, R.A., Caljé, R. (2018) Proeftuin Regte Heide Fokmast : [Evaluatie van aanwezige grondwatermeetpunten met behulp van tijdreeksanalyse](https://library.wur.nl/WebQuery/hydrotheek/2251236)
+Collenteur, R.A., Caljé, R. (2018) [Proeftuin Regte Heide Fokmast : Evaluatie van aanwezige grondwatermeetpunten met behulp van tijdreeksanalyse](https://library.wur.nl/WebQuery/hydrotheek/2251236)
 
 Collenteur, R.A. (2018) [Over autocorrelatie van tijdreeksmoddellen met niet-equidistante tijdstappen](http://www.artesia-water.nl/wp-content/uploads/Autocorrelatie_niet_gelijke_tijdstappen.pdf). Artesia, Schoonhoven, Nederland.
 

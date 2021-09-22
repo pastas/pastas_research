@@ -7,7 +7,7 @@ Articles [International]
 ------------------------
 Uwihirwe, J., Hrachowitz, M., and Bogaard, T.: [Integration of observed and model derived groundwater levels in landslide threshold models in Rwanda](https://nhess.copernicus.org/preprints/nhess-2021-222/), Nat. Hazards Earth Syst. Sci. Discuss. [preprint], in review, 2021. doi: 10.5194/nhess-2021-222
 
-Collenteur, R.A. (2021), [How Good Is Your Model Fit? Weighted Goodness-of-Fit Metrics for Irregular Time Series](https://ngwa.onlinelibrary.wiley.com/doi/epdf/10.1111/gwat.13111). Groundwater, 59: 474-478. doi: 10.1111/gwat.13111
+Collenteur, R.A. (2021) [How Good Is Your Model Fit? Weighted Goodness-of-Fit Metrics for Irregular Time Series](https://ngwa.onlinelibrary.wiley.com/doi/epdf/10.1111/gwat.13111). Groundwater, 59: 474-478. doi: 10.1111/gwat.13111
 
 Brakkee, E., van Huijgevoort, M., and Bartholomeus, R. P.: [Spatiotemporal development of the 2018–2019 groundwater drought in the Netherlands: a data-based approach](https://hess.copernicus.org/preprints/hess-2021-64/), Hydrol. Earth Syst. Sci. Discuss. [preprint], in review, 2021. doi: 10.5194/hess-2021-64
 
@@ -25,7 +25,7 @@ PhD / Msc / Bsc Theses
 --------------
 Krijnen, P. (2021) [Climate adaptation measures for local flooding of the Dutch national highway network](https://repository.tudelft.nl/islandora/object/uuid:541f8bb1-d35e-4291-ba81-c8a834826f28)
 
-Lindblom, A. & Boström, L. (2021). [Evaluating transfer-function models to understand groundwater level impacts-A study of head changes due to drainage and infiltration in an underground infrastructure project](https://hdl.handle.net/20.500.12380/302874), Chalmers University of Technology, Sweden.
+Lindblom, A. & Boström, L. (2021) [Evaluating transfer-function models to understand groundwater level impacts-A study of head changes due to drainage and infiltration in an underground infrastructure project](https://hdl.handle.net/20.500.12380/302874), Chalmers University of Technology, Sweden.
 
 Ali, S. & Patel, K. (2021) [Time-series Analysis Using a Transfer Function Noise Model Interpolation of Groundwater Levels from File Hajdar, Gotland](https://hdl.handle.net/20.500.12380/302911), Chalmers University of Technology, Sweden.
 

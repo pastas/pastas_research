@@ -35,9 +35,11 @@ Bakker, M., Collenteur, R.A., Caljé, R., Schaars, F. (2018) [Untangling groundw
 
 PhD / Msc / Bsc Theses
 --------------
+Krijnen, P. (2021) [Climate adaptation measures for local flooding of the Dutch national highway network](https://repository.tudelft.nl/islandora/object/uuid:541f8bb1-d35e-4291-ba81-c8a834826f28)
+
 Lindblom, A. & Boström, L. (2021). [Evaluating transfer-function models to understand groundwater level impacts-A study of head changes due to drainage and infiltration in an underground infrastructure project](https://hdl.handle.net/20.500.12380/302874), Chalmers University of Technology, Sweden.
 
-Ali, S. & Patel, K. [Time-series Analysis Using a Transfer Function Noise Model Interpolation of Groundwater Levels from File Hajdar, Gotland](https://hdl.handle.net/20.500.12380/302911), Chalmers University of Technology, Sweden.
+Ali, S. & Patel, K. (2021) [Time-series Analysis Using a Transfer Function Noise Model Interpolation of Groundwater Levels from File Hajdar, Gotland](https://hdl.handle.net/20.500.12380/302911), Chalmers University of Technology, Sweden.
 
 van 't Klooster, F. (2021) [Estimating hydraulic aquifer parameters from tide-induced groundwater fluctuations](http://resolver.tudelft.nl/uuid:1a46b29d-7264-4248-bec6-a50156ef3f82), TU Delft, Delft, The Netherlands.
 

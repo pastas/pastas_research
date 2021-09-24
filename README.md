@@ -13,7 +13,7 @@ Brakkee, E., van Huijgevoort, M., and Bartholomeus, R. P.: [Spatiotemporal devel
 
 Collenteur, R. A., Bakker, M., Klammler, G., and Birk, S. (2021) [Estimation of groundwater recharge from groundwater levels using nonlinear transfer function noise models and comparison to lysimeter data](https://hess.copernicus.org/articles/25/2931/2021/). Hydrol. Earth Syst. Sci., 25, 2931–2949, doi: 10.5194/hess-25-2931-2021.
 
-Urgilez Vinueza, A., Robles, J., Bakker, M., Guzman, P.; Bogaard, T. (2020) [Characterization and Hydrological Analysis of the Guarumales Deep-Seated Landslide in the Tropical Ecuadorian Andes](https://www.mdpi.com/2076-3263/10/7/267). Geosciences 2020, 10, 267. doi: 10.3390/geosciences10070267
+Urgilez Vinueza, A., Robles, J., Bakker, M., Guzman, P., Bogaard, T. (2020) [Characterization and Hydrological Analysis of the Guarumales Deep-Seated Landslide in the Tropical Ecuadorian Andes](https://www.mdpi.com/2076-3263/10/7/267). Geosciences 2020, 10, 267. doi: 10.3390/geosciences10070267
 
 Pezij, M., Augustijn, D. C., Hendriks, D. M., & Hulscher, S. J. (2020) [Applying transfer function-noise modelling to characterize soil moisture dynamics: A data-driven approach using remote sensing dat](https://www.sciencedirect.com/science/article/pii/S1364815220300876#fig1). Environmental Modelling & Software, 104756. doi: 10.1016/j.envsoft.2020.104756.
 

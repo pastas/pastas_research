@@ -4,16 +4,15 @@
 ## 2021 48th IAH Congress in Brussels, Belgium
 
 ### Posters
-Brakenhoff, D. (2021) Disentangling the Influence of Recharge, Rivers and Pumping on Groundwater Heads
+Brakenhoff, D. (2021) [Disentangling the Influence of Recharge, Rivers and Pumping on Groundwater Heads](https://www.artesia-water.nl/wp-content/uploads/poster_iah2021_dbrakenhoff.pdf)
 
 Jemeljanova, M. (2021) Comparison of AquiMod and transfer function-noise models with impulse response functions for groundwater level modeling in Latvia
 
 Kokimova, A. (2021) Forensic hydrology through time series modeling of groundwater levels: A case study of the Grazer Feld, Austria
 
-Vonk, M.A., Schaars, F., Collenteur, R.A., Bakker, M. (2021) [Nonlinear Unsaturated Zone Behaviour in Groundwater Time Series Analysis](https://media-exp1.licdn.com/dms/document/C4E1FAQFfSmXznQ-IKg/feedshare-document-pdf-analyzed/0/1631057475896?e=1632391200&v=beta&t=cwK5f6su3W5H1buzU2URdqzNIVN5dyWWhlA5lDkkVv4)
+Vonk, M.A., Schaars, F., Collenteur, R.A., Bakker, M. (2021) [Nonlinear Unsaturated Zone Behaviour in Groundwater Time Series Analysis](https://www.artesia-water.nl/wp-content/uploads/Poster_Martin_IAH_Brussel_2021.pdf)
 
 ### Presentations
-
 Collenteur, R.A. (2021) Application of non-linear recharge models in transfer- function noise models: challenges and opportunities
 
 Gustav R. M. (2021) Evaluation of Transfer Function Noise Modelling and Dimensionality Reduction Techniques for Karst Systems
@@ -26,15 +25,15 @@ Pezij, M., Augustijn, D. C. M., Hendriks, D. M. D., & Hulscher, S. J. M. H. (201
 ## 2019 Modflow & More in Golden, Colorado, United States
 
 ### Poster
-Collenteur, R.A., Birk, S. (2019) Untangling effects of surface waters and recharge on groundwater head fluctuations with transfer-function-noise models: exploring possibilities and limitations using MODFLOW6. 
+Collenteur, R.A., Bakker, M., Caljé, R., Klop, S.A. (2019) Untangling your spaghetti of time series: analysis of hydrogeological time series using Pastas.
 
 ### Presentation
-Collenteur, R.A., Bakker, M., Caljé, R., Klop, S.A. (2019) Untangling your spaghetti of time series: analysis of hydrogeological time series using Pastas. Poster at Modflow & More 2019.
+Collenteur, R.A., Birk, S. (2019) Untangling effects of surface waters and recharge on groundwater head fluctuations with transfer-function-noise models: exploring possibilities and limitations using MODFLOW6. 
+
 
 ## 2019 EGU General Assembly in Vienna, Austria
 
 ### Presentation (PICO)
-
 Collenteur, R.A., Bakker, M., Caljé R. (2019) [Hydrogeological time series analysis using scripts: objective and reproducible criteria for model construction](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-15091.pdf)
 
 ## 2018 EGU General Assembly in Vienna, Austria

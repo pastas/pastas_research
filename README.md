@@ -23,6 +23,8 @@ Bakker, M., Schaars, F. (2019) [Solving groundwater flow problems with time seri
 
 PhD / Msc / Bsc Theses
 --------------
+Vonk, M.A. (2021) [Performance of nonlinear time series models to simulate synthetic groundwater table time series from an unsaturated zone model](https://repository.tudelft.nl/islandora/object/uuid:36191e86-d81e-464f-94ab-b573d95c99ab?collection=education). Delft University of Technology, Delft, The Netherlands.
+
 Krijnen, P. (2021) [Climate adaptation measures for local flooding of the Dutch national highway network](https://repository.tudelft.nl/islandora/object/uuid:541f8bb1-d35e-4291-ba81-c8a834826f28). Delft University of Technology, Delft, The Netherlands.
 
 Lindblom, A. & Boström, L. (2021) [Evaluating transfer-function models to understand groundwater level impacts-A study of head changes due to drainage and infiltration in an underground infrastructure project](https://hdl.handle.net/20.500.12380/302874). Chalmers University of Technology, Sweden.

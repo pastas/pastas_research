@@ -5,6 +5,9 @@ If you want to contribute your work to this repository list please sent an email
 
 Articles [International]
 ------------------------
+
+Brakenhoff, D.A., Vonk, M.A., Collenteur, R.A., van Baar, M., Bakker, M.: [Application of time series analysis to estimate drawdown from multiple well fields] Front. Earth Sci. in review, 2022.
+
 Uwihirwe, J., Hrachowitz, M., and Bogaard, T.: [Integration of observed and model derived groundwater levels in landslide threshold models in Rwanda](https://nhess.copernicus.org/preprints/nhess-2021-222/). Nat. Hazards Earth Syst. Sci. Discuss. [preprint], in review, 2021. doi: 10.5194/nhess-2021-222
 
 Brakkee, E., van Huijgevoort, M., and Bartholomeus, R. P. (2022): [Improved understanding of regional groundwater drought development through time series modelling: the 2018–2019 drought in the Netherlands](https://hess.copernicus.org/articles/26/551/2022/hess-26-551-2022.html). Hydrol. Earth Syst. Sci., 26, 551–569, doi: 10.5194/hess-26-551-2022

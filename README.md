@@ -6,7 +6,7 @@ If you want to contribute your work to this repository list please sent an email
 Articles [International]
 ------------------------
 
-Brakenhoff, D.A., Vonk, M.A., Collenteur, R.A., van Baar, M., Bakker, M.: [Application of time series analysis to estimate drawdown from multiple well fields](https://www.frontiersin.org/research-topics/22582/rapid-reproducible-and-robust-environmental-modeling-for-decision-support-worked-examples-and-open-s#articles) Front. Earth Sci. in review, 2022.
+Brakenhoff, D.A., Vonk, M.A., Collenteur, R.A., van Baar, M., Bakker, M.: [Application of time series analysis to estimate drawdown from multiple well fields.](https://www.frontiersin.org/research-topics/22582/rapid-reproducible-and-robust-environmental-modeling-for-decision-support-worked-examples-and-open-s#articles) Front. Earth Sci. in review, 2022.
 
 Uwihirwe, J., Hrachowitz, M., and Bogaard, T.: [Integration of observed and model derived groundwater levels in landslide threshold models in Rwanda](https://nhess.copernicus.org/preprints/nhess-2021-222/). Nat. Hazards Earth Syst. Sci. Discuss. [preprint], in review, 2021. doi: 10.5194/nhess-2021-222
 

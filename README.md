@@ -7,9 +7,9 @@ Articles [International]
 ------------------------
 Uwihirwe, J., Hrachowitz, M., and Bogaard, T.: [Integration of observed and model derived groundwater levels in landslide threshold models in Rwanda](https://nhess.copernicus.org/preprints/nhess-2021-222/). Nat. Hazards Earth Syst. Sci. Discuss. [preprint], in review, 2021. doi: 10.5194/nhess-2021-222
 
-Collenteur, R.A. (2021) [How Good Is Your Model Fit? Weighted Goodness-of-Fit Metrics for Irregular Time Series](https://ngwa.onlinelibrary.wiley.com/doi/epdf/10.1111/gwat.13111). Groundwater, 59: 474-478. doi: 10.1111/gwat.13111
+Brakkee, E., van Huijgevoort, M., and Bartholomeus, R. P. (2022): [Improved understanding of regional groundwater drought development through time series modelling: the 2018–2019 drought in the Netherlands](https://hess.copernicus.org/articles/26/551/2022/hess-26-551-2022.html). Hydrol. Earth Syst. Sci., 26, 551–569, doi: 10.5194/hess-26-551-2022
 
-Brakkee, E., van Huijgevoort, M., and Bartholomeus, R. P.: [Spatiotemporal development of the 2018–2019 groundwater drought in the Netherlands: a data-based approach](https://hess.copernicus.org/preprints/hess-2021-64/). Hydrol. Earth Syst. Sci. Discuss. [preprint], in review, 2021. doi: 10.5194/hess-2021-64
+Collenteur, R.A. (2021) [How Good Is Your Model Fit? Weighted Goodness-of-Fit Metrics for Irregular Time Series](https://ngwa.onlinelibrary.wiley.com/doi/epdf/10.1111/gwat.13111). Groundwater, 59: 474-478. doi: 10.1111/gwat.13111
 
 Collenteur, R. A., Bakker, M., Klammler, G., and Birk, S. (2021) [Estimation of groundwater recharge from groundwater levels using nonlinear transfer function noise models and comparison to lysimeter data](https://hess.copernicus.org/articles/25/2931/2021/). Hydrol. Earth Syst. Sci., 25, 2931–2949, doi: 10.5194/hess-25-2931-2021.
 

@@ -1,6 +1,23 @@
 # Conferences 
 -----------------------
 
+## 2022 Modflow and More in Princeton, USA
+
+### Posters
+Brakenhoff, D.A. (2022). [Application of time series analysis to estimate drawdown from multiple well fields](https://drive.google.com/file/d/10G0hA6gFeEbMc4qmFMwI3bxgh8EkcjoK/view?usp=sharing)
+
+Vonk, M.A. (2022). [Time Series Analysis of Synthetic Time Series created with an Variably Saturated Flow Model](https://martinvonk.eu/wp-content/uploads/2022/05/Vonk_Poster_Modflow_and_More_22.pdf)
+
+### Presentation
+Bakker, M. (2022). Estimation of parameter uncertainty - How to deal with noisy neighbors?
+
+Schaars, F. (2022). Time Series Analysis and Groundwater Models - Best Friends Forever?
+
+Collenteur, R.A. (2022). On the application of time series models in the groundwater modeling workflow: a case study from Austria
+
+Wang, J. (2022). Application of Time-Series Analysis to Quantify Hydraulic Influence of a Pump and Treat System to Help Assess Capture
+
+
 ## 2022 EGU General Assembly in Vienna, Austria (and online)
 
 ### Presentation
@@ -17,10 +34,11 @@ Collenteur R.A. (2022). Analysis of nationwide groundwater monitoring networks u
 
 Brakenhoff, D.A. (2022). Application of time series analysis to explore the feasibility of reducing extraction rates to mitigate groundwater declines during summer droughts: a case study in the Netherlands
 
+
 ## 2021 48th IAH Congress in Brussels, Belgium
 
 ### Posters
-Brakenhoff, D. (2021). [Disentangling the Influence of Recharge, Rivers and Pumping on Groundwater Heads](https://www.artesia-water.nl/wp-content/uploads/poster_iah2021_dbrakenhoff.pdf)
+Brakenhoff, D.A. (2021). [Disentangling the Influence of Recharge, Rivers and Pumping on Groundwater Heads](https://www.artesia-water.nl/wp-content/uploads/poster_iah2021_dbrakenhoff.pdf)
 
 Jemeljanova, M. (2021). Comparison of AquiMod and transfer function-noise models with impulse response functions for groundwater level modeling in Latvia
 

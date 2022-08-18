@@ -1,12 +1,12 @@
 # Pastas Research
-one of the main purposes of Pastas is to drive the development of new methods and applications of transfer function noise modelling in the field of groundwater sciences. This repository provides a location to collect reports, journal articles and presentations in which the Pastas software was used. Articles can be accompanied by Jupyter Notebooks uploaded to this repository. 
-
-If you want to contribute your work to this repository list please sent an email to raoul.collenteur[at]uni-graz.at
+One of the main purposes of Pastas is to drive the development of new methods and applications of transfer function noise modelling in the field of groundwater sciences. This repository provides a location to collect reports, journal articles and presentations in which the Pastas software was used. If you want to contribute your work to this repository list please sent an email to raoul.collenteur@uni-graz.at or create a pull request.
 
 Articles [International]
 ------------------------
 
-Brakenhoff, D.A., Vonk, M.A., Collenteur, R.A., van Baar, M., Bakker, M. (2022): [Application of time series analysis to estimate drawdown from multiple well fields.](https://www.frontiersin.org/articles/10.3389/feart.2022.907609/full) Front. Earth Sci. 10. doi: 10.3389/feart.2022.907609
+Brakenhoff, D.A., Vonk, M.A., Collenteur, R.A., van Baar, M., Bakker, M. (2022): [Application of time series analysis to estimate drawdown from multiple well fields.](https://www.frontiersin.org/articles/10.3389/feart.2022.907609/full). Front. Earth Sci. 10. doi: 10.3389/feart.2022.907609
+
+Babre, A., Kalvāns, A., Avotniece, Z., Retiķe, I., Bikše, J., Jemeljanova, K.P.M., Zelenkevičs, A., Dēliņa, A. (2022): [The use of predefined drought indices for the assessment of groundwater drought episodes in the Baltic States over the period 1989–2018](https://www.sciencedirect.com/science/article/pii/S2214581822000623). Journal of Hydrology: Regional Studies, 40, 101049. doi: 10.1016/j.ejrh.2022.101049
 
 Uwihirwe, J., Hrachowitz, M., and Bogaard, T. (2022): [Integration of observed and model derived groundwater levels in landslide threshold models in Rwanda](https://nhess.copernicus.org/preprints/nhess-2021-222/). Nat. Hazards Earth Syst. Sci. Discuss, 22, 1723–1742. doi: 10.5194/nhess-2021-222
 

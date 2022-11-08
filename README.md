@@ -1,5 +1,7 @@
 # Pastas Research
-One of the main purposes of Pastas is to drive the development of new methods and applications of transfer function noise modelling in the field of groundwater sciences. This repository provides a location to collect reports, journal articles and presentations in which the Pastas software was used. If you want to contribute your work to this repository list please sent an email to raoul.collenteur@uni-graz.at or create a pull request.
+One of the main purposes of Pastas is to drive the development of new methods and applications of transfer function noise modelling in the field of groundwater sciences. This repository provides a location to collect reports, journal articles and presentations in which the Pastas software was used. If you want to contribute your work to this repository list please sent an email to Raoul.Collenteur@eawag.ch or create a pull request.
+
+*Note* This list is no longer maintained here. Please add your studies using Pastas to our [public Zotero group](https://www.zotero.org/groups/4846685/pastas/collections/)!
 
 Articles [International]
 ------------------------
